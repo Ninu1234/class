@@ -1,2 +1,1 @@
-# class
-to create class
+# Box Class
